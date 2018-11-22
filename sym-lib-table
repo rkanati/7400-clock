@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name rk-clock-private)(type Legacy)(uri /home/rk/projects/rk-clock/rk-clock-private.lib)(options "")(descr ""))
+)

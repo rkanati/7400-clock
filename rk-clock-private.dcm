@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED-7Seg-18DIP
+D One digit 7 segment, common cathode
+K display LED 7-segment
+$ENDCMP
+#
+#End Doc Library
